@@ -1,0 +1,18 @@
+{
+  "name": "ButtonCounter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "~0.4.31",
+    "big-number": "~0.2.5",
+    "express": "~3.5.1"
+  },
+  "description": "ERROR: No README data found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "raveclassic",
+  "license": "MIT"
+}
